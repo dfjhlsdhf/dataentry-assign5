@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/539c5dc6-674b-4a87-974d-907f96550be9/resourceGroups/WarehouseGroup/providers/Microsoft.Web/sites/dataentry-webapp",
+    "appService.deploySubpath": "."
+}
